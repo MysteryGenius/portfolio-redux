@@ -1,7 +1,7 @@
 <template>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-10 align-middle">
     <!-- image -->
-    <img src="jodie.jpeg" alt="Jian Zhen" class="rounded-full" />
+    <img src="/jodie.jpeg" alt="Jian Zhen" class="rounded-full" />
     <!-- article -->
 
     <article class="flex flex-col justify-center">
