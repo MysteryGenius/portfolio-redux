@@ -12,7 +12,7 @@
       <source src="/projects/oolong.mp4" type="video/mp4" />
     </video>
     <p class="mt-6">
-      Oolong is a tool ton help youths manage their friendships and mental
+      Oolong is a tool to help youths manage their friendships and mental
       wellbeing. This project was funded by the National Youth Council and
       supported by the Ministry of Culture, Community and Youth. The application
       is built using Laravel, Vue and TailwindCSS.
